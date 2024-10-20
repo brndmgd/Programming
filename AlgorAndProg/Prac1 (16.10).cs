@@ -1,6 +1,6 @@
 ﻿using System;
 
-class PZ6
+class PZ1
 {
     static void FillArray(ref int[] ar)
     {
