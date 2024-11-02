@@ -115,6 +115,7 @@ class Lab281024
             }
         }
     }
+    
     static void PrintAr(int[,] ar)
     {
         for (int i = 0; i < ar.GetLength(0); i++)
@@ -126,6 +127,7 @@ class Lab281024
             Console.WriteLine();
         }
     }
+    
     static int InLine(int[,] ar, int line, int elem)
     {
         bool max = true;
@@ -145,6 +147,7 @@ class Lab281024
         else if (min) return -1;
         else return 0;
     }
+    
     static int InColumn(int[,] ar, int column, int elem)
     {
         bool max = true;
