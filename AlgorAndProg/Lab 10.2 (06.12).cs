@@ -8,7 +8,6 @@
      * "базы данных нет, модификация невозможна"
 */
 using System;
-using System.Security.Principal;
 using System.Text;
 
 namespace Lab0612
